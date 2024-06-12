@@ -105,12 +105,6 @@ npm run dev
 
 O servidor estará em execução em `http://localhost:3000`.
 
-* Siga as instruções na seção [Executando o Projeto](https://github.com/JoaoLucasAssis/Dositio_Backend/blob/main/README.md) no README do backend para executar o servidor backend.
-
-* Siga as instruções na seção [Executando o Projeto](https://github.com/JoaoLucasAssis/Dositio/blob/main/Dositio_Frontend/README.md) no README do frontend para iniciar a aplicação frontend.
-
-Após seguir esses passos, você poderá acessar a aplicação completa em seu navegador, interagindo com o frontend e utilizando todas as funcionalidades fornecidas pelo projeto.
-
 ## Colaboradores
 
 <table>
