@@ -30,6 +30,39 @@ Ele consome a API REST fornecida pelo backend e oferece uma interface para inter
 
 Para mais detalhes sobre como executar o frontend, consulte a seção [Executando o Projeto](https://github.com/JoaoLucasAssis/Dositio/blob/main/Dositio_Frontend/README.md) no README específico do frontend.
 
+## Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Instalação
+<details>
+<summary>Clique aqui!</summary>
+<p>
+
+### Pré-requisitos para instalação!
+
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+--------------------------------------------------------------------------------------------
+
+Para começar, clone o repositório do projeto em seu ambiente local. Siga a etapa abaixo:
+
+* Abra o terminal na pasta onde deseja clonar o repositório.
+
+* Clone o repositório para o seu ambiente local usando o seguinte comando:
+
+```git
+git clone https://github.com/JoaoLucasAssis/Dositio.git
+```
+
+</p>
+</details>
+
 ## Executando o Projeto
 
 Para executar o projeto, siga os seguintes passos para o frontend e backend do projeto:
