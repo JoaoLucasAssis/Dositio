@@ -1,0 +1,3 @@
+[submodule "Dositio_Backend"]
+	path = Dositio_Backend
+	url = https://github.com/JoaoLucasAssis/Dositio_Backend.git
