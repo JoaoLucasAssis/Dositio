@@ -17,3 +17,12 @@ A aplicação web oferece uma interface para interagir com os recursos fornecido
 A aplicação frontend se comunica com a API REST através de requisições HTTP. 
 
 Os dados retornados são exibidos de forma dinâmica na interface da aplicação, permitindo uma experiência interativa para o usuário.
+
+## Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
