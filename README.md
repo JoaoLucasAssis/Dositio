@@ -1,4 +1,4 @@
-# Dositio - Aplicação web para gestão 
+# Dositio - Plataforma Integrada de Gestão de Produtos e Usuários
 
 Este projeto acadêmico consiste em uma aplicação web para gerenciamento de `produtos`, `categorias` e `usuários`, utilizando uma API REST como backend e uma aplicação frontend para interação com o usuário.
 
