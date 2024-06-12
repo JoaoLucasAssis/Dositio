@@ -26,3 +26,21 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Executando o Projeto
+
+Siga os seguintes  passos para executar o projeto:
+
+* Navegue até o diretório do projeto e execute o seguinte comando para instalar todas as dependências:
+
+```git
+npm install
+```
+
+* Após a instalação, você pode executar o projeto usando o seguinte comando:
+
+```node
+npm run dev
+```
+
+O servidor estará em execução em `http://localhost:3000`.
