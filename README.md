@@ -110,3 +110,24 @@ O servidor estará em execução em `http://localhost:3000`.
 * Siga as instruções na seção [Executando o Projeto](https://github.com/JoaoLucasAssis/Dositio/blob/main/Dositio_Frontend/README.md) no README do frontend para iniciar a aplicação frontend.
 
 Após seguir esses passos, você poderá acessar a aplicação completa em seu navegador, interagindo com o frontend e utilizando todas as funcionalidades fornecidas pelo projeto.
+
+## Colaboradores
+
+<table>
+  <tr>
+  <!-- João Lucas -->
+    <td align="center">
+      <a href="https://github.com/JoaoLucasAssis">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxCRWlkfeigdbif83ap111RPNlGARl02wOF5OvW9zUA&s" width="100px;" height="100px;" alt="Foto do João Lucas"/><br>
+        <sub>
+          <b>JoaoLucasAssis</b>
+        </sub>
+      </a>
+    </td>
+    </td>
+  </tr>
+</table>
+
+## Licença
+
+Este projeto não possui nenhum licença. Sinta-se à vontade para usar, modificar e distribuir este código conforme necessário.
